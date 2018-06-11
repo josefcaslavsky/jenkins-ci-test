@@ -12,5 +12,6 @@ class HomepagePresenter extends Nette\Application\UI\Presenter
 		$this->template->title = 'test';
 		$this->template->description = 'test';
 		$this->template->aaa = 'aaa';
+//		$this->template->xxx = 'xxx';
 	}
 }
