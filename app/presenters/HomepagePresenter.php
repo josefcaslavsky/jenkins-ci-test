@@ -14,9 +14,12 @@ class HomepagePresenter extends Nette\Application\UI\Presenter {
 
 		$this->template->aaa = 'aaa';
 
-		if (false) {
+		if(false)
+		{
 
-		} else {
+		}
+		else
+		{
 
 		}
 
@@ -29,6 +32,6 @@ class HomepagePresenter extends Nette\Application\UI\Presenter {
 
 
 
-		
+
 	}
 }
