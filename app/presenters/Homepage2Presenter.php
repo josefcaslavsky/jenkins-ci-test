@@ -39,4 +39,7 @@ class Homepage2Presenter extends Nette\Application\UI\Presenter {
 	public function aaa(){
 		return false;
 	}
+	public function bbb(){
+		return false;
+	}
 }
