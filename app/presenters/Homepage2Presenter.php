@@ -48,4 +48,7 @@ class Homepage2Presenter extends Nette\Application\UI\Presenter {
 	public function ddd(){
 		return false;
 	}
+	public function eee(){
+		return false;
+	}
 }
