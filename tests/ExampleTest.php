@@ -3,4 +3,4 @@ use Tester\Assert;
 
 require __DIR__ . '/../vendor/autoload.php';
 
-Assert::true(true);
+Assert::true(false);
