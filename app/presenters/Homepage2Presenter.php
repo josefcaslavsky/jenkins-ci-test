@@ -42,4 +42,7 @@ class Homepage2Presenter extends Nette\Application\UI\Presenter {
 	public function bbb(){
 		return false;
 	}
+	public function ccc(){
+		return false;
+	}
 }
