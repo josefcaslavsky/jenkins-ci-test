@@ -18,4 +18,9 @@ class NewPresenter extends Presenter
     {
 
     }
+
+    public function bbb()
+    {
+
+    }
 }
