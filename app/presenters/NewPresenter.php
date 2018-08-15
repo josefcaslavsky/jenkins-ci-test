@@ -22,5 +22,7 @@ class NewPresenter extends Presenter
     public function bbb()
     {
 
+		dump('bbb');
+		exit;
     }
 }
