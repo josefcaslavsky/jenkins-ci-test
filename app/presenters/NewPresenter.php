@@ -7,6 +7,7 @@ use Nette\Application\UI\Presenter;
 
 
 
+
 class NewPresenter extends Presenter
 {
    public function xxx(){
