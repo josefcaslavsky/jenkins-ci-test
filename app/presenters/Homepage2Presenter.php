@@ -1,0 +1,54 @@
+<?php
+namespace App\Presenters;
+use Nette;
+class Homepage2Presenter extends Nette\Application\UI\Presenter {
+	public function actionTest() {
+		$this->template->title='test';
+		$this->template->description = 'test';
+		$this->template->aaa = 'aaa';
+//		$this->template->xxx = 'xxx';
+
+		return;
+
+		$this->template->aaa = 'aaa';
+
+		if(false)
+		{
+
+		}
+		else
+		{
+
+		}
+
+
+
+
+
+
+
+
+
+
+
+	}
+
+	public function xxx(){
+		return false;
+	}
+	public function aaa(){
+		return false;
+	}
+	public function bbb(){
+		return false;
+	}
+	public function ccc(){
+		return false;
+	}
+	public function ddd(){
+		return false;
+	}
+	public function eee(){
+		return false;
+	}
+}
