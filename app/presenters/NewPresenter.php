@@ -12,4 +12,10 @@ class NewPresenter extends Presenter
 {
    public function xxx(){
 
-	}}
+	}
+
+    public function aaa()
+    {
+
+    }
+}
